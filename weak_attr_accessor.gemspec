@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
 
   gem.authors  = ['Hwee-Boon Yar']
 
-  gem.description = 'Adds weak_attr_accessor that wraps objects with WeakRef'
+  gem.description = 'Adds weak_attr_accessor that wraps objects with WeakRef, for RubyMotion'
   gem.summary = 'Adds weak_attr_accessor that wraps objects with WeakRef'
   gem.homepage = 'https://github.com/hboon/weak_attr_accessor'
   gem.email = 'hboon@motionobj.com'
