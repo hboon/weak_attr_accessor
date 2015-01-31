@@ -31,7 +31,7 @@ end
 Installation
 ---
 1. Add this to your `Gemfile`: `gem 'weak_attr_accessor'`
-2. Run bundle install
+2. Run `bundle install`
 
 License
 ---
